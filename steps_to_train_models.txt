@@ -1,0 +1,10 @@
+ Steps to write a pytorch code for classification problems using DL.
+ 1. Install necessary packages
+ 2. Import required libraries 
+ 3. Data Pre-processing
+ 4. Create data loaders
+ 5. Model definition
+ 6. Loss function and optimizer
+ 7. Training and testing functions
+ 8. Training and validating the model
+ 9. Testing the model
