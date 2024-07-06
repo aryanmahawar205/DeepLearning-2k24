@@ -1,0 +1,29 @@
+Heads:
+
+Title
+Abstract
+Keywords
+1. Introduction
+2. Related Works
+	2.1 Research Gaps and Motivation
+	2.2 Research Contributions
+3. Proposed System
+	3.1 Data pre processing (CycleGAN)
+	3.2 Proposed Network
+      		3.2.1 Cross Vision Transformer Block
+      		3.2.2 Custom CNN Block (new name for it to account for RCSA + coordinate attention)
+      		3.2.3 Condensation Block
+      		3.2.4 Classification
+4. Results
+	4.1 Dataset description
+	4.2 Data augmentation
+	4.3 Environmental Setup
+	4.4 Ablation Studies
+      		4.4.1 Analysis of Cross Vision Transformer
+      		4.4.2 Analysis of (new name block in 3.2.2)
+      		4.4.3 Analysis of Custom CNN and Transformer
+      		4.4.4 Analysis of Proposed Work
+5. Discussion
+	5.1 Performance comparison with existing works
+6. Conclusion
+7. References
